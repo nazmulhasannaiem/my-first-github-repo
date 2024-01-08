@@ -1,5 +1,9 @@
-.header{ 
-   text-align: center;
-   text-decoration: underline;
-  ;
+div{background-color: darkkhaki;
+border-radius: 5px 30px;
+ margin-bottom: 10px;
+  padding: 10px;
+
+
+
 }
+h2{text-decoration: underline; text-align: center; color: aqua;}
